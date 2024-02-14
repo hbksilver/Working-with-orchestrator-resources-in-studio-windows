@@ -9,7 +9,7 @@
       "Name": "in_Email",
       "DisplayName": "in_Email",
       "Category": null,
-      "Tooltip": "ACME Email\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "Tooltip": "ACME Email\n\n\n\n\n\n\n\n\n\n\n\n",
       "Placeholder": null,
       "Widget": "TextComposer",
       "IsRequired": true,
